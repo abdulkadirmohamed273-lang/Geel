@@ -1,0 +1,24 @@
+{
+  "mcpServers": {
+    "supabase": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@supabase/mcp-server-supabase@latest",
+        "--read-only"
+      ],
+      "env": {
+        "SUPABASE_ACCESS_TOKEN": "YOUR_PERSONAL_ACCESS_TOKEN_HERE"
+      }
+    }
+  }
+}
+
+/*
+  INSTRUCTIONS:
+  1. Copy this file and rename it to mcp.json (remove .example)
+  2. Replace YOUR_PERSONAL_ACCESS_TOKEN_HERE with your actual token
+  3. Get your Personal Access Token from: https://supabase.com/dashboard/account/tokens
+  4. Note: This file is gitignored for security - your token won't be committed
+*/
+
