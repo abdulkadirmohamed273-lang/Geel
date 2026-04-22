@@ -1,0 +1,110 @@
+════════════════════════════════════════════════════════════
+            BEERGEEL CLINIC - FEATURE ENHANCEMENT
+                  QUOTATION & PROPOSAL
+════════════════════════════════════════════════════════════
+
+Dear [Client Name],
+
+Thank you for your feature enhancement requests! We're excited to 
+continue working with you to expand your clinic management system.
+
+After reviewing all 8 requested features, we're pleased to provide 
+this quotation following the same pricing model as your original 
+project.
+
+════════════════════════════════════════════════════════════
+                        PRICING BREAKDOWN
+════════════════════════════════════════════════════════════
+
+FEATURE DETAILS:
+
+1. Visit Creation = Ticket Creation          Market: $25   →  $11
+2. Client Portal Ticket Display              Market: $15   →  $7
+3. Owner Investment Entry                    Market: $30   →  $13
+4. Multi-Currency Financial Reports          Market: $150  →  $65
+   (6 account types: Zaad S/$, Edahab S/$, Cash S/$)
+5. Soft Delete Transactions (1-month)        Market: $45   →  $20
+6. Money Transfer System                     Market: $80   →  $35
+7. System-wide "Patient" → "Client"          Market: $30   →  $13
+8. Client Self-Registration System           Market: $200  →  $86
+   (Registration + Approval + Appointments)
+
+────────────────────────────────────────────────────────────
+TOTAL MARKET VALUE:                         $575
+YOUR SPECIAL DISCOUNT:                       -$325 (56.5%)
+────────────────────────────────────────────────────────────
+YOUR FINAL PRICE:                           $250
+════════════════════════════════════════════════════════════
+
+SPECIAL OFFER:
+As a valued returning client, we're extending the same generous 
+56.5% discount you received on your original project. The complete 
+enhancement package is priced at just $250 - the same investment 
+as your initial system!
+
+════════════════════════════════════════════════════════════
+                      PAYMENT TERMS
+════════════════════════════════════════════════════════════
+
+Option 1 (Recommended):
+• 50% upfront: $125 (to begin development)
+• 50% on completion: $125 (upon delivery and testing)
+
+Option 2 (Milestone-based):
+• 25% upfront: $62.50
+• 25% after Phase 1: $62.50 (Features 1,2,3,7)
+• 25% after Phase 2: $62.50 (Features 4,5,6)
+• 25% on completion: $62.50 (Feature 8)
+
+════════════════════════════════════════════════════════════
+                    DEVELOPMENT TIMELINE
+════════════════════════════════════════════════════════════
+
+Week 1-2:  Visit integration, Portal display, Investment, 
+           Terminology update (Features 1,2,3,7)
+
+Week 3-4:  Financial reports, Soft delete, Money transfers 
+           (Features 4,5,6)
+
+Week 5-6:  Client registration system (Feature 8), Testing, 
+           and Deployment
+
+Total: 4-6 weeks from project start
+
+════════════════════════════════════════════════════════════
+                     WHAT'S INCLUDED
+════════════════════════════════════════════════════════════
+
+✅ All 8 requested features fully implemented
+✅ Database schema updates and migrations
+✅ Complete UI/UX implementation
+✅ Testing and quality assurance
+✅ Deployment to production environment
+✅ System documentation updates
+✅ 2 weeks of post-launch support and bug fixes
+
+════════════════════════════════════════════════════════════
+                      NEXT STEPS
+════════════════════════════════════════════════════════════
+
+1. Review this quotation
+2. Confirm acceptance (reply to this email)
+3. Make upfront payment to begin development
+4. We'll start immediately upon payment confirmation
+
+════════════════════════════════════════════════════════════
+
+We're excited to enhance your clinic management system with these 
+powerful new features. The same quality and dedication you experienced 
+in your original project will be applied to these enhancements.
+
+Looking forward to your confirmation!
+
+Best regards,
+[Your Name/Team Name]
+
+────────────────────────────────────────────────────────────
+Quotation Reference: BGE-2025-001
+Valid for: 30 days
+────────────────────────────────────────────────────────────
+
